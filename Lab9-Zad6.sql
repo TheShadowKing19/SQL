@@ -1,0 +1,1 @@
+select timediff('23:31:10', '12:01:20') as "roznica"

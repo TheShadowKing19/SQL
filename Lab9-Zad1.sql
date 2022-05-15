@@ -1,0 +1,1 @@
+select date_format(ADDDATE(current_date, 120), '%D %M %Y %W') as "data za 120 dni";
